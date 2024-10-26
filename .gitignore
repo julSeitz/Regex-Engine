@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# course related files and directories
+requirements.txt
+Topics/
+
+# old stages
+/Regex Engine (Go)/*
+!/Regex Engine (Go)/task/
+/Regex Engine (Go)/task/*
+!/Regex Engine (Go)/task/main.go
